@@ -1,7 +1,6 @@
 ---
 title: Medieval Christmas Cookies Still In Fashion
-_date:
-  '[object Object]':
+publish_date: 2011-12-24
 client: Weekend Edition
 categories:
   - radio
