@@ -39,10 +39,12 @@ collections:
   - projects
   - categories
 
+uploads_dir: "assets/"
+
 _options:
   content: 
     embed: true
-
+  
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
