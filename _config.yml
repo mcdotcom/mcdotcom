@@ -22,11 +22,19 @@ url: "http://www.mariecusick.com" # the base hostname & protocol for your site, 
 twitter_username: MarieCusick
 #github_username:  jekyll
 
+
+
 # Build settings
 markdown: kramdown
 #theme: minima
 plugins:
   - jekyll-feed
+sass:
+  sass_dir: _sass
+include: ['_pages']
+kramdown:
+  input: GFM
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
