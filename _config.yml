@@ -55,6 +55,7 @@ _options:
     table: true
     indent: true
     outdent: true
+    horizontalrule: true
     image: true
     embed: true
     link: true
