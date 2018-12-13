@@ -37,15 +37,7 @@ kramdown:
 
 collections:
   - projects
-
-
-categories:
-  - video: Video & Multimedia
-  - radio: Radio
-  - awards: Awards
-  - resume: Resume
-  - contact: Contact
-
+  - categories
 
 _options:
   content: 
