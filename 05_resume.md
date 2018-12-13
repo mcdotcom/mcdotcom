@@ -59,6 +59,16 @@ permalink: /resume/
 * B.A. Political science and French
 * Magna cum laude
 
-&nbsp;
+## INTERNSHIPS
 
-INTERNSHIPS
+* WGAL-TV Newsroom, Lancaster, Pennsylvania (2007)
+* WBZ-TV, Assignment desk, Boston, Massachusetts (2007)
+* Common Cause PA, Harrisburg, Pennsylvania (2006)
+
+### SPECIAL SKILLS
+
+* **Television/video**: Shoot & edit packages for TV and web using non-linear video editing programs, including Final Cut Pro and Avid. Experienced with news management software, including AP ENPS, and iNews. Experience producing & on-air hosting hour-long television specials, leading roundtable discussions.
+* **Radio**: report and produce spots and features using Adobe Audition
+* **Web/office**: Create online multimedia content: videos, maps, photo galleries, using WordPress and Core Publisher CMS. Microsoft Office programs including Word & Excel
+* **Social media**: Facebook, Twitter, Instagram, YouTube, LinkedIn
+* **Foreign language**: French (conversational)
