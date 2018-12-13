@@ -69,7 +69,7 @@ permalink: /resume/
 
 ---
 
-### SPECIAL SKILLS
+## SPECIAL SKILLS
 
 * **Television/video**: Shoot & edit packages for TV and web using non-linear video editing programs, including Final Cut Pro and Avid. Experienced with news management software, including AP ENPS, and iNews. Experience producing & on-air hosting hour-long television specials, leading roundtable discussions.
 * **Radio**: report and produce spots and features using Adobe Audition
