@@ -1,9 +1,9 @@
 ---
 title: 
 date: 
-client: 
-image:
-link: 
+client:
 categories:
+link: 
+image:
 ---
 
