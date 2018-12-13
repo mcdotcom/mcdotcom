@@ -14,6 +14,8 @@ The project is a public media collaboration among WITF in Harrisburg, WHYY in Ph
 
 Since 2012, I’ve closely followed the political, social, and economic effects of Pennsylvania’s natural gas boom. My work has been recognized at the regional and national levels– honors include a Sigma Delta Chi Award from the Society of Professional Journalists and a national Edward R. Murrow Award.&nbsp;
 
+![here's the alt text](/assets/sierra-unger-1-wb.jpg)
+
 Before joining StateImpact, I was a multimedia reporter for WMHT in Albany, New York and appeared on the statewide public affairs TV show, New York NOW. I covered everything from Albany’s nanotechnology sector, to the devastation caused by Superstorm Sandy, and the debate over the state’s moratorium on fracking. My reports aired on PBS and NPR stations throughout the state, including WNYC and WNET Thirteen in New York City.
 
 I was born and raised in Lancaster, Pennsylvania and previously worked as a reporter and anchor for commercial television stations. I began my journalism career as an intern on the assignment desk at WBZ-TV in Boston.
