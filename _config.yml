@@ -41,23 +41,7 @@ collections:
 
 uploads_dir: "assets/"
 
-_options:
-  content:
-    format: p h1 h2 h3 h4 h5 h6 pre address div
-    bold: true
-    italic: true
-    numberedlist: true
-    bulletedlist: true
-    table: true
-    indent: true
-    image: true
-    left: true
-    center: true
-    right: true
-    right: align-to-right
-    styles: /_sass/_content-typography.scss
-    embed: true
-  
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
