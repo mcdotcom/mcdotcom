@@ -7,3 +7,6 @@ link: >-
 image: 'http://www.mariecusickreports.com/wp-content/uploads/2012/03/dna-pic.jpg'
 ---
 
+Three years ago,&nbsp;[a report](http://www.nytimes.com/2009/02/19/us/19forensics.html){: target="_blank"}&nbsp;from the National Academy of Sciences exposed serious problems in the nation’s forensic science community. It found not only a lack of peer-reviewed science in the field, but also insufficient oversight in crime laboratories.
+
+Little has changed since that report came out, but concerns are growing as scandals keep surfacing at crime labs across the country.
