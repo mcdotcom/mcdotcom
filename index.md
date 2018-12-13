@@ -6,9 +6,7 @@ _hide_title: true
 
 ## Marie Cusick
 
-# I'm an award-winning journalist with a background in television, radio, and digital reporting.
-
-I’m an award-winning journalist with a background in television, radio, and digital reporting.
+# I’m an award-winning journalist with a background in television, radio, and digital reporting.
 
 As the Harrisburg reporter for StateImpact Pennsylvania, I cover state and national policy around energy and environmental issues.
 
