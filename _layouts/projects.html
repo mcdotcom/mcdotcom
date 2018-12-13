@@ -2,9 +2,13 @@
 layout: default
 ---
 
+<h2>{{ page.title }}</h2>
+
 {{ content }}
 
 {% for item in site.projects %}
+	<article id="project-{{ item.title | slugify }}" class="project" >
 		<time>{{ item.date | date: "%b %-d, %Y" }}</time>
 		<h3>{{ item.title }}</h3>
+	</article>
 {% endfor %}
