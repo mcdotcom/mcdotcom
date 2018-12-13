@@ -1,5 +1,6 @@
 ---
 layout: default
+_hide_title: true
 ---
 
 ## Marie Cusick
