@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Games
+title: Awards
 permalink: /awards/
 ---
 
