@@ -1,6 +1,6 @@
 ---
 title: 
-date: 
+_date: 
 client:
 categories:
 link: 
