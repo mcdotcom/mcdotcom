@@ -5,6 +5,6 @@ _date:
 client:
 categories:
 link:
-image: /uploads/photo-1024x764.jpg
+image: /assets/cookies.jpg
 ---
 
