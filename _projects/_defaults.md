@@ -1,6 +1,6 @@
 ---
 title: 
-_date: {{ site.time | date: '%Y-%m-%d' }} 
+publish_date: {{ site.time | date: '%Y-%m-%d' }} 
 client:
 categories:
 link: 
