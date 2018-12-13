@@ -9,6 +9,7 @@ layout: default
 {% for item in site.projects %}
 	<article id="project-{{ item.title | slugify }}" class="project" >
 		<time>{{ item.date | date: "%b %-d, %Y" }}</time>
-		<h3>{{ item.title }}</h3>
+		<h3><a href="{{ item.link  }}" target="_blank">{{ item.title }}</a></h3>
+		{{ item.content }}
 	</article>
 {% endfor %}
