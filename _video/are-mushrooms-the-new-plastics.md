@@ -1,6 +1,6 @@
 ---
 title: Are mushrooms the new plastics?
-date: 2011-07-06
+publish_date: 2011-07-06
 client: New York NOW
 image:
 link: http://www.innovationtrail.org/post/are-mushrooms-new-plastics
