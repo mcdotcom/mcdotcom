@@ -36,7 +36,8 @@ kramdown:
   input: GFM
 
 collections:
-  - projects
+  - video_multimeda
+  - radio
 
 uploads_dir: "assets/"
 
@@ -44,11 +45,6 @@ _options:
   content: 
     embed: true
   
-
-categories: 
-  - Video & Multimedia
-  - Radio
-  - Test
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
