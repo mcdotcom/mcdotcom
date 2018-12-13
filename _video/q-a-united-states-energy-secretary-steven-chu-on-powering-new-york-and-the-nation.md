@@ -1,11 +1,9 @@
 ---
 title: "Q&A: United States Energy Secretary Steven Chu on powering New York and the nation"
-date: 2012-06-01  
+publish_date: 2012-06-01  
 client: New York NOW
 image:
 link: http://innovationtrail.org/post/qa-energy-secretary-steven-chu-powering-ny-and-nation
-categories:
-  - video
 ---
 
 A one-on-one interview with U.S. Energy Secretary and Nobel Prize winner, Dr. Steven Chu about national energy policy, and some of the issues facing New York – like the future of fracking and nuclear power.

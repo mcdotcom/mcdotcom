@@ -1,9 +1,7 @@
 ---
 title: Pennsylvania's Blurred Lines
-date: 2016-01-01 00:00:00
+publish_date: 2016-01-01
 client: StateImpact Pennsylvania
-categories:
-  - video
 link: 'https://www.witf.org/sipa-blurredlines/'
 image:
 ---

@@ -4,8 +4,6 @@ date: 2011-07-06
 client: New York NOW
 image:
 link: http://www.innovationtrail.org/post/are-mushrooms-new-plastics
-categories: 
-  - video
 ---
 
 A pair of entrepreneurs uses mushrooms to transform the way people think about packaging products.

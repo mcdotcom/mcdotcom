@@ -1,11 +1,9 @@
 ---
 title: The occupation expands 
-date: 2011-10-17
+publish_date: 2011-10-17
 image:
 client: New York NOW
-link: http://www.innovationtrail.org/post/occupation-expands
-categories: 
-  - video
+link: http://www.innovationtrail.org/post/occupation-expands  
 ---
 
 The Occupy Wall Street movement has arrived at its one-month anniversary. Participants have encamped in cities all across the country, and around the world.

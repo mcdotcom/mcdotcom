@@ -1,8 +1,7 @@
 ---
 title: 'On public land, a gas company takes private control'
-_date:
+publish_date:
 client:
-categories:
 link:
 image:
 ---
