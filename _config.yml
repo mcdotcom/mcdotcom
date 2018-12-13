@@ -51,6 +51,9 @@ _options:
     table: true
     indent: true
     image: true
+    left: true
+    center: true
+    right: true
     right: align-to-right
     styles: /_sass/_content-typography.scss
     embed: true
