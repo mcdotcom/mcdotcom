@@ -35,6 +35,18 @@ include: ['_pages']
 kramdown:
   input: GFM
 
+collections:
+  - projects
+
+
+categories:
+  - video: Video & Multimedia
+  - radio: Radio
+  - awards: Awards
+  - resume: Resume
+  - contact: Contact
+
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

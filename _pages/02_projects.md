@@ -1,7 +1,7 @@
 ---
-layout: posts
+layout: projects
 title: Projects
 permalink: /projects/
 ---
 
-Contact content goes here.
+Here are my projects: 
