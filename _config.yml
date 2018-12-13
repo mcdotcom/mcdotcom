@@ -36,7 +36,7 @@ kramdown:
   input: GFM
 
 collections:
-  - video_multimeda
+  - video
   - radio
 
 uploads_dir: "assets/"

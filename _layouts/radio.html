@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+<h2>{{ page.title }}</h2>
+
+{{ content }}
+
+{% for item in site.radio %}
+	<article id="radio-{{ item.title | slugify }}" class="radio" >
+		<img src="{{ item.image | prepend: baseurl }}" style="max-width:300px">
+		<time>{{ item.date | date: "%b %-d, %Y" }}</time>
+
+		<h3><a href="{{ item.link  }}" target="_blank">{{ item.title }}</a></h3>
+		{{ item.content }}
+	</article>
+{% endfor %}
