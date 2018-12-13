@@ -50,7 +50,7 @@ permalink: /resume/
 * Produced, and co-anchored four live half-hour weekend newscasts
 * Shot, edited packages as general assignment reporter
 
-## &nbsp;
+---
 
 ## EDUCATION
 
@@ -59,11 +59,15 @@ permalink: /resume/
 * B.A. Political science and French
 * Magna cum laude
 
+---
+
 ## INTERNSHIPS
 
 * WGAL-TV Newsroom, Lancaster, Pennsylvania (2007)
 * WBZ-TV, Assignment desk, Boston, Massachusetts (2007)
 * Common Cause PA, Harrisburg, Pennsylvania (2006)
+
+---
 
 ### SPECIAL SKILLS
 
