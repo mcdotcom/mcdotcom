@@ -8,3 +8,5 @@ image: /assets/tmi-1.jpg
 ---
 
 Just like coal companies, America’s nuclear power industry is having a tough time. It faces slowing demand for electricity, and competition from cheaper natural gas and renewables. And now, touting itself as a form of clean energy, the nuclear industry is lobbying state legislatures with a controversial pitch for help.
+
+Story ran on NPR.org and All Things Considered
