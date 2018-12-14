@@ -8,7 +8,7 @@ layout: default
 
 {% for item in site.video %}
 	<article id="video-{{ item.title | slugify }}" class="video" >
-		<time>{{ item.date | date: "%b %-d, %Y" }}</time>
+		<time>{{ item.publish_date | date: "%b %-d, %Y" }}</time>
 		<h3><a href="{{ item.link  }}" target="_blank">{{ item.title }}</a></h3>
 		{{ item.content }}
 	</article>

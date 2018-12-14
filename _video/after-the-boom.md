@@ -1,6 +1,6 @@
 ---
 title: After the Boom
-publish_date: 2016-01-16 00:00:00
+publish_date: 2016-01-16
 client: StateImpact Pennsylvania
 link: 'http://www.witf.org/sipa-aftertheboom/'
 image:

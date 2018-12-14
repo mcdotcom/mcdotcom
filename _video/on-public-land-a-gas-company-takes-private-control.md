@@ -1,6 +1,6 @@
 ---
 title: 'On public land, a gas company takes private control'
-publish_date: 2014-08-11 00:00:00
+publish_date: 2014-08-11
 client: WITF
 link: 'https://www.youtube.com/watch?v=cnHJaOZfPwc'
 image:

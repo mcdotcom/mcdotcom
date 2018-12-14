@@ -1,6 +1,6 @@
 ---
 title: 'Hurricane Sandy aftermath in Breezy Point, Queens'
-date: 2012-11-05 00:00:00
+publish_date: 2012-11-05
 client: New York NOW
 image:
 link: 'http://www.innovationtrail.org/post/sandys-aftermath-breezy-point'
