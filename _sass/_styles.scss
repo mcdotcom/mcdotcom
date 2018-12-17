@@ -1,3 +1,54 @@
-h1 {
-	color:blue;
+
+$link-color: #0067FB;
+$text-color:#5C6E74;
+$sans-serif:'Roboto', sans-serif;
+$monospace: monospace;
+
+html {
+	font-family:$sans-serif;
+	color:$text-color;
 }
+
+p {
+	line-height:1.5;
+}
+
+a {
+	color:$link-color;
+}
+
+header {
+	margin-top:160px;
+	margin-bottom:50px;
+	#branding {
+		h1 {
+			font-family:$monospace;
+			text-transform: uppercase;
+			font-weight:normal;
+			letter-spacing:.1rem;
+		}
+		h2 {
+			font-weight:normal;
+			color:rgb(22, 53, 65);
+		}
+	}
+	nav {
+		ul {
+			display:flex;
+			flex-wrap:wrap;
+			li {
+				&:after {
+					content: "/";
+					padding-left:10px;
+					padding-right:10px;
+				}
+				&:last-of-type {
+					&:after {
+						content:"";
+					}
+				}
+			}
+		}
+	}
+}
+
