@@ -4,6 +4,7 @@ layout: default
 _hide_title: true
 ---
 
+![](/assets/IMGP2196.jpg)
 
 As the Harrisburg reporter for StateImpact Pennsylvania, I cover state and national policy around energy and environmental issues.
 
