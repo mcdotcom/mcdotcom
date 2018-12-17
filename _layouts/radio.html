@@ -1,14 +1,14 @@
 ---
-layout: default
+layout: page
 ---
-
-<h2>{{ page.title }}</h2>
 
 {{ content }}
 
-{% for item in site.radio %}
+{% assign items = (site.radio | sort: 'publish_date' | reverse ) %}
+
+{% for item in items %}
 	<article id="radio-{{ item.title | slugify }}" class="radio" >
-		<img src="{{ item.image | prepend: baseurl }}" style="max-width:300px">
+		<img src="{{ item.image | prepend: baseurl }}" >
 		<time>{{ item.publish_date | date: "%b %-d, %Y" }}</time>
 
 		<h3><a href="{{ item.link  }}" target="_blank">{{ item.title }}</a></h3>

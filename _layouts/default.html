@@ -2,7 +2,14 @@
 <html>
 {% include head.html %}
 
-<body>
+{% if page.title == "Home" %}
+	{% assign class = "home" %}
+	{% else %}
+	{% assign class = "interior" %}
+
+{% endif %}
+
+<body id="{{ page.title | slugify }}" class="{{ class }}">
 	{% include header.html %}
 	<main class="contain">
 		{{ content }}

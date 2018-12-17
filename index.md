@@ -4,7 +4,7 @@ layout: default
 _hide_title: true
 ---
 
-![](/assets/IMGP2196.jpg)
+![marie reporting](/assets/IMGP2196.jpg)
 
 As the Harrisburg reporter for [StateImpact Pennsylvania](http://stateimpact.npr.org/pennsylvania/){: target="_blank"}, I cover state and national policy around energy and environmental issues.
 

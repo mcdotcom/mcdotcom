@@ -1,6 +1,6 @@
 ---
 title: Struggling nuclear industry lobbies state governments for help
-publish_date: 2017-05-16 00:00:00
+publish_date: 2017-05-16
 client: All Things Considered
 link: >-
   https://www.npr.org/2017/05/16/528657268/struggling-nuclear-industry-lobbies-state-governments-for-help

@@ -1,6 +1,6 @@
 ---
 title: 'Natural gas building boom fuels climate worries, enrages landowners'
-publish_date: 2017-07-17 00:00:00
+publish_date: 2017-07-17
 client: Morning Edition
 link: >-
   https://www.npr.org/2017/07/17/536708576/natural-gas-building-boom-fuels-climate-worries-enrages-landowners

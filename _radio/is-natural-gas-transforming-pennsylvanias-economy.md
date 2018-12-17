@@ -1,6 +1,6 @@
 ---
 title: Is Natural Gas Transforming Pennsylvania’s Economy?
-publish_date: 2013-10-28 00:00:00
+publish_date: 2013-10-28
 client: Morning Edition
 link: >-
   http://www.npr.org/2013/10/28/241319381/how-frackings-ups-and-downs-affect-pennsylvanias-economy

@@ -1,6 +1,6 @@
 ---
 title: Pa. Landowners Feel Cheated By Royalty Payments From Fracking
-publish_date: 2013-07-29 00:00:00
+publish_date: 2013-07-29
 client: All Things Considered
 link: 'https://www.npr.org/templates/story/story.php?storyId=206728504'
 image: /assets/royalties-1.jpeg

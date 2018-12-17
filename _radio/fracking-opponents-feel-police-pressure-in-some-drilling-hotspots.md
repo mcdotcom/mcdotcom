@@ -1,6 +1,6 @@
 ---
 title: Fracking opponents feel police pressure in some drilling hotspots
-publish_date: 2015-03-01 00:00:00
+publish_date: 2015-03-01
 client: All Things Considered
 link: >-
   https://www.npr.org/2015/03/01/389598765/fracking-opponents-feel-police-pressure-in-some-drilling-hotspots

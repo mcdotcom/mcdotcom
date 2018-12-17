@@ -1,6 +1,6 @@
 ---
 title: How fracking is fueling a shift from coal to gas
-publish_date: 2015-06-23 00:00:00
+publish_date: 2015-06-23
 client: Morning Edition
 link: >-
   https://www.npr.org/2015/06/23/414926833/how-fracking-is-changing-the-nation-s-electrical-grid

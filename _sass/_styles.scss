@@ -1,21 +1,25 @@
 
 $link-color: #0067FB;
 $text-color:#5C6E74;
+$text-color-dark:rgb(22, 53, 65);
 $sans-serif:'Roboto', sans-serif;
 $monospace: monospace;
 
 html {
 	font-family:$sans-serif;
 	color:$text-color;
+	font-size:18px;
+	line-height:1.5;
 }
 
 p {
-	line-height:1.5;
 }
 
 a {
 	color:$link-color;
+	text-decoration:none;
 }
+
 
 header {
 	margin-top:160px;
@@ -26,10 +30,11 @@ header {
 			text-transform: uppercase;
 			font-weight:normal;
 			letter-spacing:.1rem;
+			font-size:1.25rem;
 		}
 		h2 {
 			font-weight:normal;
-			color:rgb(22, 53, 65);
+			color:$text-color-dark;
 		}
 	}
 	nav {
@@ -52,3 +57,35 @@ header {
 	}
 }
 
+main {
+	margin-bottom:70px;
+}
+
+footer {
+	border-top:solid 1px #eee;
+	padding-top:40px;
+	padding-bottom:30px;
+	display:flex;
+	justify-content:space-between;
+	font-size:.9rem;
+	color:#999;
+	ul#social {
+		display:flex;
+		li {
+			margin-right:10px;
+		}
+	}
+}
+
+body.interior {
+	main {
+		h1 {
+			font-weight:normal;
+			color:$text-color-dark; 
+		}
+	}
+}
+
+time {
+	display:block;
+}
