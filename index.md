@@ -14,4 +14,4 @@ Since 2012, I’ve closely followed the political, social, and economic effects 
 
 Before joining StateImpact, I was a multimedia reporter for WMHT in Albany, New York and appeared on the statewide public affairs TV show, [New York NOW](http://nynow.org/){: target="_blank"}. I covered everything from Albany’s nanotechnology sector, to the devastation caused by Superstorm Sandy, and the debate over the state’s moratorium on fracking. My reports aired on PBS and NPR stations throughout the state, including WNYC and WNET Thirteen in New York City.
 
-I was born and raised in Lancaster, Pennsylvania and previously worked as a reporter and anchor for commercial television stations. I began my journalism career as an intern on the assignment desk at WBZ-TV in Boston.
+I was born and raised in Lancaster, Pennsylvania and previously worked as a reporter and anchor for commercial television stations. I began my journalism career as an intern on the assignment desk at WBZ-TV in Boston. 
