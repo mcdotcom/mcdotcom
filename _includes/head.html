@@ -9,4 +9,23 @@
 	<link href='https://fonts.googleapis.com/css?family=Roboto+Mono|Roboto:300,400,900,400italic' rel='stylesheet' type='text/css'>
 	<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
+	<script>
+		window.onload = function() {
+			wrapIframes();
+		}
+
+		function wrapIframes() {
+			console.log('wrapping iframes');
+			var iframes = document.getElementsByTagName("IFRAME");
+			for (var i = 0; i < iframes.length; i++) {
+				var iframeWrapper = document.createElement('div');
+				iframeWrapper.classList.add("iframe-wrapper");
+				iframes[i].parentNode.insertBefore(iframeWrapper, iframes[i]);
+				iframeWrapper.appendChild(iframes[i]);
+			}	
+		}
+		
+		
+	</script>
+
 </head> 

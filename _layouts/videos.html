@@ -9,8 +9,19 @@ layout: page
 {% for item in items %}
 
 	<article id="video-{{ item.title | slugify }}" class="video" >
-		<time>{{ item.publish_date | date: "%b %-d, %Y" }}</time>
-		<h3><a href="{{ item.link  }}" target="_blank">{{ item.title }}</a></h3>
-		{{ item.content }}
+		{% if item.embed %}
+			<div class="article-embed">
+				{{ item.embed }}	
+			</div>
+		{% else if item.image %}
+			<div class="article-image">
+				{{ item.image }}	
+			</div>
+		{% endif %}
+		<div class="article-text">
+			<time>{{ item.publish_date | date: "%b %-d, %Y" }}</time>
+			<h3><a href="{{ item.link  }}" target="_blank">{{ item.title }}</a></h3>
+			{{ item.content }}	
+		</div>		
 	</article>
 {% endfor %}

@@ -7,8 +7,8 @@
 	</div>
 	<nav>
 		<ul class="nostyle">
-			{% for page in site.pages %} {% if page.title and page.title != 'Home' %}
-			<li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
+			{% for item in site.pages %} {% if item.title and item.title != 'Home' %}
+			<li class="{% if item.url == page.url %}active{% endif %}"><a href="{{ item.url | prepend: site.baseurl }}">{{ item.title }}</a></li>
 			{% endif %} {% endfor %}
 		</ul>
 		</li>
