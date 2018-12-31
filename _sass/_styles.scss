@@ -1,5 +1,5 @@
 
-$link-color: #0067FB;
+$link-color: #0067FB; //#0459D4; 
 $text-color:#5C6E74;
 $text-color-dark:rgb(22, 53, 65);
 $sans-serif:'Roboto', sans-serif;
@@ -59,6 +59,7 @@ header {
 		h2 {
 			font-weight:normal;
 			color:$text-color-dark;
+			font-size:1.5rem;
 		}
 	}
 	nav {
@@ -116,7 +117,7 @@ body.interior {
 			object-fit:cover;
 		}
 		.iframe-wrapper {
-			margin-bottom:5px;
+			margin-bottom:15px;
 		}
 		h1 {
 			font-weight:normal;

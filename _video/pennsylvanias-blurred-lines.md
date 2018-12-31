@@ -8,7 +8,3 @@ embed: '<div class="cms-embed" data-cms-embed="PGlmcmFtZSBzcmM9Imh0dHBzOi8vcGxhe
 ---
 
 Interactive site tracks Pennsylvania state officials moving between the public and private sectors over the past decade.
-
-
-
-&nbsp;
