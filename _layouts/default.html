@@ -44,6 +44,21 @@
 	{% endif %}
 	</main>
 	{% include footer.html %}
+	<script>
+		console.log('hello world!');
+		var fullContent = document.getElementById('full-content');
+		var readMore = document.getElementById('read-more');
+		fullContent.classList.add('hide');
+		readMore.onclick = function() {
+			toggleElement(fullContent);
+			readMore.classList.toggle('hide');
+		};
+		function toggleElement(x) {
+			console.log('functioning!');
+			x.classList.toggle('hide');
+		}
+		
+	</script>
 </body>
 
 </html>
