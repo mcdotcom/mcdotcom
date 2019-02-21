@@ -1,7 +1,9 @@
 <header class="contain">
 	<div id="branding">
-		{% if page.title == "Home" %}			
-			<img src="{{ page.image }}" alt="">
+		{% if page.title == "Home" %}		
+			{% if page.image %}
+				<img src="{{ page.image }}" alt="">
+			{% endif %}				
 			<h1><a href="/">{{ site.title }}</a></h1>
 			<h2>{{ page.excerpt }} <small id="read-more">read more.</small></h2>
 			<div id="full-content">
