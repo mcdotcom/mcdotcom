@@ -12,7 +12,33 @@
 <body id="{{ page.title | slugify }}" class="{{ class }}">
 	{% include header.html %}
 	<main class="contain">
-		{{ content }}
+	{% if page.title == "Home" %}
+		<div id="posts">
+			{% for post in site.posts %}
+				<article id="{{ post.title | slugify }}" class="radio" >
+						
+						<img src="{{ post.image | prepend: baseurl }}" >	
+						
+						<div class="article-text">
+							<time>{{ post.publish_date | date: "%b %-d, %Y" }}</time>
+							{% if post.categories %}
+								<ul>
+									{% for item in post.categories %}
+										<li>{{ item }}</li>
+									{% endfor %}	
+								</ul>
+							{% endif %}
+
+
+							<h3><a href="{{ post.link  }}" target="_blank">{{ post.title }}</a></h3>
+							{{ post.content }}	
+						</div>		
+					</article>
+			{% endfor %}
+		</div>
+		{% else %}
+			{{ content }}
+	{% endif %}
 	</main>
 	{% include footer.html %}
 </body>
