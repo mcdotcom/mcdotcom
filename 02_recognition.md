@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Awards
-permalink: /awards/
+title: Recognition
+permalink: /recognition/
 ---
 
 ## National
