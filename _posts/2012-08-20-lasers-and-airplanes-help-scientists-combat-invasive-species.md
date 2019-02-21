@@ -2,6 +2,8 @@
 title: Lasers and airplanes help scientists combat invasive species
 publish_date: 2012-08-20
 client: New York NOW
+categories:
+  - video
 image:
 link: http://www.innovationtrail.org/post/lasers-and-airplanes-help-scientists-combat-invasive-species
 embed: '<iframe width="560" height="315" src="https://www.youtube.com/embed/veB5DTulom0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
