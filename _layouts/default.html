@@ -31,8 +31,13 @@
 								</ul>
 							{% endif %}
 							<h3 class="article-headline"><a href="{{ post.link  }}" target="_blank">{{ post.title }}</a></h3>
-							<time>{{ post.date | date: "%b %-d, %Y" }}</time>
-							{{ post.content }}	
+							<div class="article-text-meta">
+								<time>{{ post.date | date: "%b %-d, %Y" }}</time>
+								{% if post.publication %}
+									<small class="article-publication"> &nbsp;&bull;&nbsp; <em>{{ post.publication }}</em></small>
+								{% endif %}
+							</div>
+							{{ post.content }}		
 						</div>		
 					</article>
 					{% endif %}					

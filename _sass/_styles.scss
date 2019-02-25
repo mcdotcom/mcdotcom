@@ -213,12 +213,17 @@ body#home {
 				margin-top:0;
 				margin-bottom:10px;
 			}
-			time {
-				display:block;
-				color:#ccc;
-				font-size:.8rem;
+			.article-text-meta {
 				margin-bottom:15px;
+				time {
+					color:#ccc;
+					font-size:.8rem;
+				}
+				small.article-publication {
+					color:#ccc;
+				}	
 			}
+			
 		}
 	}	
 }
