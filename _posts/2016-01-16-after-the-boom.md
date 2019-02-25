@@ -1,6 +1,6 @@
 ---
 title: After the Boom
-client: StateImpact Pennsylvania
+publication: StateImpact Pennsylvania
 categories:
   - video
 link: 'http://www.witf.org/sipa-aftertheboom/'

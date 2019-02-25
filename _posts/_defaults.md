@@ -1,6 +1,6 @@
 ---
 title: 
-client:
+publication:
 categories:
 link: 
 image:

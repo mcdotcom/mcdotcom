@@ -1,6 +1,6 @@
 ---
 title: "Q&A: United States Energy Secretary Steven Chu on powering New York and the nation"
-client: New York NOW
+publication: New York NOW
 image:
 categories:
   - video

@@ -1,6 +1,6 @@
 ---
 title: 'On public land, a gas company takes private control'
-client: WITF
+publication: WITF
 categories:
   - video
 link: 'https://www.youtube.com/watch?v=cnHJaOZfPwc'

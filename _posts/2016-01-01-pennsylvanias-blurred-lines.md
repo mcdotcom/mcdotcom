@@ -1,6 +1,6 @@
 ---
 title: Pennsylvania's Blurred Lines
-client: StateImpact Pennsylvania
+publication: StateImpact Pennsylvania
 link: 'https://www.witf.org/sipa-blurredlines/'
 image:
 categories:

@@ -1,6 +1,6 @@
 ---
 title: Natural Gas Boom Cuts Into Pennsylvania Forests
-client: All Things Considered
+publication: All Things Considered
 categories:
   - radio
 link: >-

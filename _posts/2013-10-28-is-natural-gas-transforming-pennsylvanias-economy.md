@@ -1,6 +1,6 @@
 ---
 title: Is Natural Gas Transforming Pennsylvania’s Economy?
-client: Morning Edition
+publication: Morning Edition
 categories:
   - radio
 link: >-

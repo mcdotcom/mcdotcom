@@ -1,6 +1,6 @@
 ---
 title: Lasers and airplanes help scientists combat invasive species
-client: New York NOW
+publication: New York NOW
 categories:
   - video
 image:

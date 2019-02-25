@@ -4,7 +4,7 @@ image:
 categories:
   - video
 embed: '<iframe width="560" height="315" src="https://www.youtube.com/embed/Uevay4IbMI0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
-client: New York NOW
+publication: New York NOW
 link: http://www.innovationtrail.org/post/occupation-expands  
 show: false
 ---

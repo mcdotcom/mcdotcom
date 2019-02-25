@@ -1,6 +1,6 @@
 ---
 title: Struggling nuclear industry lobbies state governments for help
-client: All Things Considered
+publication: All Things Considered
 categories:
   - radio
 link: >-

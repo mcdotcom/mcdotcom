@@ -1,6 +1,6 @@
 ---
 title: Fracking opponents feel police pressure in some drilling hotspots
-client: All Things Considered
+publication: All Things Considered
 categories:
   - radio
 link: >-

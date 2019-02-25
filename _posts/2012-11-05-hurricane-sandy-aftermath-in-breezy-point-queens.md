@@ -1,6 +1,6 @@
 ---
 title: 'Hurricane Sandy aftermath in Breezy Point, Queens'
-client: New York NOW
+publication: New York NOW
 categories:
   - video
 image:

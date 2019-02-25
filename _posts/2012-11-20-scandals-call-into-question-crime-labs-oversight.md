@@ -1,6 +1,6 @@
 ---
 title: Scandals Call Into Question Crime Labs’ Oversight
-client: All Things Considered
+publication: All Things Considered
 categories:
   - radio
 link: >-

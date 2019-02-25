@@ -1,6 +1,6 @@
 ---
 title: TV reporting montage
-client:
+publication:
 link:
 image:
 categories:

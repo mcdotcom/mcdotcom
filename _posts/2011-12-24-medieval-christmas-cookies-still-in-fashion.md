@@ -1,6 +1,6 @@
 ---
 title: Medieval Christmas Cookies Still In Fashion
-client: Weekend Edition
+publication: Weekend Edition
 categories:
   - radio
 link: >-

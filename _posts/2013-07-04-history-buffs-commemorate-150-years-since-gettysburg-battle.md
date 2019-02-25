@@ -1,6 +1,6 @@
 ---
 title: History Buffs Commemorate 150 Years Since Gettysburg Battle
-client: Morning Edition
+publication: Morning Edition
 categories:
   - radio
 link: >-

@@ -1,6 +1,6 @@
 ---
 title: How fracking is fueling a shift from coal to gas
-client: Morning Edition
+publication: Morning Edition
 categories:
   - radio
 link: >-

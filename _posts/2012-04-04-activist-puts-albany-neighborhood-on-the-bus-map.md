@@ -1,6 +1,6 @@
 ---
 title: Activist Puts Albany Neighborhood On The Bus Map
-client: Morning Edition
+publication: Morning Edition
 categories:
   - radio
 link: 'https://www.npr.org/templates/transcript/transcript.php?storyId=149715433'

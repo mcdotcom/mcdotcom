@@ -1,6 +1,6 @@
 ---
 title: 'Natural gas building boom fuels climate worries, enrages landowners'
-client: Morning Edition
+publication: Morning Edition
 categories:
   - radio
 link: >-
