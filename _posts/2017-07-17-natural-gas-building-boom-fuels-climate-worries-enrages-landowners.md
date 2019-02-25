@@ -1,12 +1,12 @@
 ---
 title: 'Natural gas building boom fuels climate worries, enrages landowners'
-publish_date: 2017-07-17
 client: Morning Edition
 categories:
   - radio
 link: >-
   https://www.npr.org/2017/07/17/536708576/natural-gas-building-boom-fuels-climate-worries-enrages-landowners
 image: /assets/desktop-pipeline-map-1.png
+show: true
 ---
 
 Companies have asked a federal regulator to approve thousands of miles of pipeline from Appalachia. They almost always get their way.
