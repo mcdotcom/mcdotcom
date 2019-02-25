@@ -15,25 +15,22 @@
 	{% if page.title == "Home" %}
 		<div id="posts">
 			{% for post in site.posts %}
-				<article id="{{ post.title | slugify }}" class="{% if post.categories %}{% for item in post.categories %}{{ item }} {% endfor %}{% endif %}" >
-						
+				<article id="{{ post.title | slugify }}" class="{% if post.categories %}{% for item in post.categories %}{{ item }} {% endfor %}{% endif %}" >						
 						{% if post.image %}
 							<img src="{{ post.image | prepend: baseurl }}" >	
 						{% elsif post.embed %}
 								{{ post.embed }}     
 						{% endif %}
-						<div class="article-text">
-							<time>{{ post.publish_date | date: "%b %-d, %Y" }}</time>
+						<div class="article-text">							
 							{% if post.categories %}
-								<ul>
+								<ul id="article-categories">
 									{% for item in post.categories %}
-										<li>{{ item }}</li>
+										<li class="article-category">{{ item }}</li>
 									{% endfor %}	
 								</ul>
 							{% endif %}
-
-
-							<h3><a href="{{ post.link  }}" target="_blank">{{ post.title }}</a></h3>
+							<h3 class="article-headline"><a href="{{ post.link  }}" target="_blank">{{ post.title }}</a></h3>
+							<time>{{ post.date | date: "%b %-d, %Y" }}</time>
 							{{ post.content }}	
 						</div>		
 					</article>
