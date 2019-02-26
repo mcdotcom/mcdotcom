@@ -1,11 +1,11 @@
 ---
-title:
-date:
-publication:
-categories:
-link: 
 image:
 embed:
+categories:
+title:
+link:
+date:
+publication:
 show: true
 ---
 
