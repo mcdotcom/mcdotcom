@@ -21,6 +21,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.mariecusick.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: MarieCusick
 #github_username:  jekyll
+twitter_url: https://twitter.com/mariecusick
+linkedin_url: https://www.linkedin.com/in/mariecusick
 
 
 
@@ -31,22 +33,35 @@ plugins:
   - jekyll-feed
 sass:
   sass_dir: _sass
-include: ['_pages']
+#include: ['_pages']
 kramdown:
   input: GFM
 
 collections:
-  - projects
+  - video
+  - radio
 
 
-categories:
-  - video: Video & Multimedia
-  - radio: Radio
-  - awards: Awards
-  - resume: Resume
-  - contact: Contact
 
 
+
+# cloudcannon config:
+uploads_dir: "assets/"
+_options:
+  content:
+    format: p h1 h2 h3 h4 h5 h6 pre address div
+    bold: true
+    italic: true
+    numberedlist: true
+    bulletedlist: true
+    table: true
+    indent: true
+    outdent: true
+    horizontalrule: true
+    image: true
+    embed: true
+    link: true
+  
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

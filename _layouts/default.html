@@ -2,14 +2,67 @@
 <html>
 {% include head.html %}
 
-<body>
+{% if page.title == "Home" %}
+	{% assign class = "home" %}
+	{% else %}
+	{% assign class = "interior" %}
+
+{% endif %}
+
+<body id="{{ page.title | slugify }}" class="{{ class }}">
 	{% include header.html %}
-	<main>
-		<article>
+	<main class="contain">
+	{% if page.title == "Home" %}
+		<div id="posts">
+			{% for post in site.posts %}
+				{% if post.show != false %}
+				<article id="{{ post.title | slugify }}" class="{% if post.categories %}{% for item in post.categories %}{{ item }} {% endfor %}{% endif %}" >						
+						{% if post.image %}
+							<img src="{{ post.image | prepend: baseurl }}" >	
+						{% elsif post.embed %}
+								{{ post.embed }}     
+						{% endif %}
+						<div class="article-text">							
+							{% if post.categories %}
+								<ul id="article-categories">
+									{% for item in post.categories %}
+										<li class="article-category">{{ item }}</li>
+									{% endfor %}	
+								</ul>
+							{% endif %}
+							<h3 class="article-headline"><a href="{{ post.link  }}" target="_blank">{{ post.title }}</a></h3>
+							<div class="article-text-meta">
+								<time>{{ post.date | date: "%b %-d, %Y" }}</time>
+								{% if post.publication %}
+									<small class="article-publication"> &nbsp;&bull;&nbsp; <em>{{ post.publication }}</em></small>
+								{% endif %}
+							</div>
+							{{ post.content }}		
+						</div>		
+					</article>
+					{% endif %}					
+			{% endfor %}
+		</div>
+		{% else %}
 			{{ content }}
-		</article>
-		{% include footer.html %}
+	{% endif %}
 	</main>
+	{% include footer.html %}
+	<script>
+		console.log('hello world!');
+		var fullContent = document.getElementById('full-content');
+		var readMore = document.getElementById('read-more');
+		fullContent.classList.add('hide');
+		readMore.onclick = function() {
+			toggleElement(fullContent);
+			readMore.classList.toggle('hide');
+		};
+		function toggleElement(x) {
+			console.log('functioning!');
+			x.classList.toggle('hide');
+		}
+		
+	</script>
 </body>
 
 </html>
