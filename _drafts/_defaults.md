@@ -4,7 +4,7 @@ publication:
 categories:
 link: 
 image:
-embed:
+embed_text:
 show: true
 ---
 

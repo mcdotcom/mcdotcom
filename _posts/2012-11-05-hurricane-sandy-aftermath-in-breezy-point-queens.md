@@ -5,7 +5,7 @@ categories:
   - video
 image:
 link: 'http://www.innovationtrail.org/post/sandys-aftermath-breezy-point'
-embed: '<iframe width="560" height="315" src="https://www.youtube.com/embed/DV__cBjPaJw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+embed_text: '<iframe width="560" height="315" src="https://www.youtube.com/embed/DV__cBjPaJw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
 show: true
 ---
 

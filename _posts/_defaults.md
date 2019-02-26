@@ -1,6 +1,6 @@
 ---
 image:
-embed:
+embed_text:
 categories:
 title:
 link:
