@@ -1,11 +1,11 @@
 ---
-title: This is a test draft 
+title: This is a test draft
 publication:
 categories:
-link: 
+link:
 image:
 embed:
-show: true
+show: false
 ---
 
 Here is the body content
