@@ -1,10 +1,12 @@
 ---
 title: testing a draft post within cloudcannon
-publication:
+publication: test publication
 categories:
+  - radio
 link:
-image:
+image: /assets/dna-pic.jpg
 embed:
 show: true
 ---
 
+asdfasdfasdf
