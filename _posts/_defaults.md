@@ -1,5 +1,6 @@
 ---
-title: 
+title:
+date:
 publication:
 categories:
 link: 
