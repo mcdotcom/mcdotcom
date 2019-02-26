@@ -1,11 +1,11 @@
 ---
-title: The occupation expands 
 image:
+embed_text: '<iframe width="560" height="315" src="https://www.youtube.com/embed/Uevay4IbMI0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
 categories:
   - video
-embed_text: '<iframe width="560" height="315" src="https://www.youtube.com/embed/Uevay4IbMI0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
-publication: New York NOW
+title: The occupation expands 
 link: http://www.innovationtrail.org/post/occupation-expands  
+publication: New York NOW
 show: false
 ---
 

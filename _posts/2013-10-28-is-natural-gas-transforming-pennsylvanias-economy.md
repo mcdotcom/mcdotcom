@@ -1,11 +1,12 @@
 ---
-title: Is Natural Gas Transforming Pennsylvania’s Economy?
-publication: Morning Edition
+image: /assets/Drill-rig-through-trees-300x225.jpeg
+embed_text:
 categories:
   - radio
+title: Is Natural Gas Transforming Pennsylvania’s Economy?
 link: >-
   http://www.npr.org/2013/10/28/241319381/how-frackings-ups-and-downs-affect-pennsylvanias-economy
-image: /assets/Drill-rig-through-trees-300x225.jpeg
+publication: Morning Edition
 show: true
 ---
 

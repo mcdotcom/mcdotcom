@@ -1,11 +1,12 @@
 ---
-title: Scandals Call Into Question Crime Labs’ Oversight
-publication: All Things Considered
+image: /assets/dna-pic.jpg
+embed_text:
 categories:
   - radio
+title: Scandals Call Into Question Crime Labs’ Oversight
 link: >-
   http://www.npr.org/2012/11/20/165579898/forensic-crime-lab-scandals-may-be-due-to-oversight
-image: /assets/dna-pic.jpg
+publication: All Things Considered
 show: true
 ---
 

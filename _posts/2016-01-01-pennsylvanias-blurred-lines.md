@@ -1,11 +1,11 @@
 ---
-title: Pennsylvania's Blurred Lines
-publication: StateImpact Pennsylvania
-link: 'https://www.witf.org/sipa-blurredlines/'
 image:
+embed_text: '<div class="cms-embed" data-cms-embed="PGlmcmFtZSBzcmM9Imh0dHBzOi8vcGxheWVyLnZpbWVvLmNvbS92aWRlby8xNTIzMjU0ODYiIHdpZHRoPSI2NDAiIGhlaWdodD0iMzYwIiBmcmFtZWJvcmRlcj0iMCIgYWxsb3dmdWxsc2NyZWVuPjwvaWZyYW1lPg=="><iframe src="https://player.vimeo.com/video/152325486" allowfullscreen="" width="640" height="360" frameborder="0"></iframe></div>'
 categories:
   - video
-embed_text: '<div class="cms-embed" data-cms-embed="PGlmcmFtZSBzcmM9Imh0dHBzOi8vcGxheWVyLnZpbWVvLmNvbS92aWRlby8xNTIzMjU0ODYiIHdpZHRoPSI2NDAiIGhlaWdodD0iMzYwIiBmcmFtZWJvcmRlcj0iMCIgYWxsb3dmdWxsc2NyZWVuPjwvaWZyYW1lPg=="><iframe src="https://player.vimeo.com/video/152325486" allowfullscreen="" width="640" height="360" frameborder="0"></iframe></div>'
+title: Pennsylvania's Blurred Lines
+link: 'https://www.witf.org/sipa-blurredlines/'
+publication: StateImpact Pennsylvania
 show: true
 ---
 

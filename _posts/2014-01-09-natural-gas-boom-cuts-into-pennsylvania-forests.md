@@ -1,11 +1,12 @@
 ---
-title: Natural Gas Boom Cuts Into Pennsylvania Forests
-publication: All Things Considered
+image: /assets/Forest.jpeg
+embed_text:
 categories:
   - radio
+title: Natural Gas Boom Cuts Into Pennsylvania Forests
 link: >-
   https://www.npr.org/2014/01/09/261090114/natural-gas-boom-cuts-into-pennsylvanias-state-forests
-image: /assets/Forest.jpeg
+publication: All Things Considered
 show: true
 ---
 

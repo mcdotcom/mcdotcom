@@ -1,11 +1,12 @@
 ---
-title: Medieval Christmas Cookies Still In Fashion
-publication: Weekend Edition
+image: /assets/cookies.jpg
+embed_text: 
 categories:
   - radio
+title: Medieval Christmas Cookies Still In Fashion
 link: >-
   https://www.npr.org/2011/12/24/144219476/medieval-christmas-cookies-still-in-fashion
-image: /assets/cookies.jpg
+publication: Weekend Edition
 show: true
 ---
 
