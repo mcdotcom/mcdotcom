@@ -1,6 +1,6 @@
 ---
 title: trying a draft from client editor
-date: 2019-02-26 00:00:00
+date: 2019-02-24 00:00:00
 publication: asdfasdff
 categories:
   - video
