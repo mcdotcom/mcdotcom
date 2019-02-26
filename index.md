@@ -3,7 +3,7 @@ title: Home
 layout: default
 _hide_title: true
 image: 
-excerpt: I'm an award-winning journalist with a background in television, radio, and digital reporting.
+excerpt_markdown: I'm an award-winning journalist with a background in television, radio, and digital reporting.
 ---
 
 As the Harrisburg reporter for [StateImpact Pennsylvania](http://stateimpact.npr.org/pennsylvania/){: target="_blank"}, I cover state and national policy around energy and environmental issues.
