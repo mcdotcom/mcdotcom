@@ -37,13 +37,6 @@ sass:
 kramdown:
   input: GFM
 
-collections:
-  - video
-  - radio
-
-
-
-
 
 # cloudcannon config:
 uploads_dir: "assets/"
