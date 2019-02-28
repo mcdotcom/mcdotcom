@@ -58,8 +58,8 @@ _options:
     embed: true
     link: true
   
- _editor:
-  default_path: /posts/
+_editor:
+ default_path: /posts/
  
 
 # Exclude from processing.
