@@ -58,6 +58,9 @@ _options:
     embed: true
     link: true
   
+ _editor:
+  default_path: /posts/
+ 
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
