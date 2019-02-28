@@ -4,8 +4,10 @@
 			{% if page.image %}
 				<img src="{{ page.image }}" alt="">
 			{% endif %}				
-			<h1 class="editable"><a href="/">{{ site.title }}</a></h1>
-			<h2>{{ page.excerpt_markdown }} <small class="editable" id="read-more">Read More.</small></h2>
+			<h1 class="editable"><a href="/">{{ site.title }}</a></h1><a href="cloudcannon:#site.title">
+  Edit site title
+</a>
+			<h2 class="editable">{{ page.excerpt_markdown }} <small id="read-more">Read More.</small></h2>
 			<div id="full-content" class="editable">
 				{{ content }}	
 			</div>	
