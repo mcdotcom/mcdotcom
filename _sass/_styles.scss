@@ -228,4 +228,10 @@ body#home {
 	}	
 }
 
+.editor-link {
+  display: none;
+}
 
+.cms-editor-active .editor-link {
+  display: block;
+}
