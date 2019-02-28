@@ -1,7 +1,8 @@
 ---
 _slug: header
 image: 
-title: Marie Cusick
+title: Header 
+sitewide_title: Marie Cusick
 teaser_markdown: I'm an award-winning journalist with a background in television, radio, and digital reporting.
 ---
 
