@@ -2,14 +2,16 @@
 	<div id="branding">
 		{% if page.title == "Home" %}		
 			{% if page.image %}
-				<img src="{{ page.image }}" alt="">
+				<img src="{{ page.image }}" alt="" />
 			{% endif %}				
 			<h1 class="editable"><a href="/">{{ site.title }}</a></h1><a href="cloudcannon:#site.title">
   Edit site title
 </a>
 			<h2 class="editable">{{ page.excerpt_markdown }} <small id="read-more">Read More.</small></h2>
 			<div id="full-content" class="editable">
-				{{ content }}	
+					<p>As the Harrisburg reporter for <a target="_blank" href="http://stateimpact.npr.org/pennsylvania/">StateImpact Pennsylvania</a>, I cover state and national policy around energy and environmental issues.</p>
+					<p>The project is a public media collaboration among WITF in Harrisburg, WHYY in Philadelphia, and WESA and The Allegheny Front in Pittsburgh. <a target="_blank" href="https://stateimpact.npr.org/pennsylvania/author/mariecusick/">I write for the StateImpact Pennsylvania website</a>, and my reports air on public radio stations throughout the state. I also write for NPR.org and file radio pieces for national shows including Morning Edition, All Things Considered and Weekend Edition. I&rsquo;m part of <a target="_blank" href="https://www.npr.org/series/571910677/environment-and-energy-collaborative">NPR&rsquo;s Energy and Environment team</a> which coordinates coverage between the network and select member station reporters around the country.</p>
+					<p>You can contact me at <a target="_blank" href="mailto:marie_cusick@witf.org">marie_cusick@witf.org</a> or (717) 395-2657.</p>
 			</div>	
 		{% else %}
 			<h1 class="editable"><a href="/">{{ site.title }}</a></h1>		
@@ -21,7 +23,7 @@
 			<li class="{% if item.url == page.url %}active{% endif %}"><a href="{{ item.url | prepend: site.baseurl }}">{{ item.title }}</a></li>
 			{% endif %} {% endfor %}
 		</ul>
-		</li>
-		</ul>
+		
+		
 	</nav>
 </header>
