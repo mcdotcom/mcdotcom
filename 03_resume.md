@@ -14,6 +14,7 @@ permalink: /resume/
 * Write news stories for StateImpact Pennsylvania website
 * Produce online multimedia content: video features, data visualizations, and photos
 * Produce [documentaries](https://www.pbs.org/video/generations-yet-to-come-environmental-rights-in-pa-ckbsoy/){: target="_blank"} for Pennsylvania PBS member stations
+* Co-wrote&nbsp;[$652,902 grant to Corporation for Public Broadcasting](https://stateimpact.npr.org/pennsylvania/2017/09/13/stateimpact-pennsylvania-to-expand-its-reach-with-grant-from-corporation-for-public-broadcasting/){: target="_blank"} to expand StateImpact Pennsylvania into Pittsburgh in 2017
 
 ### Freelance reporter, NPR &nbsp; (2011- Present)
 
