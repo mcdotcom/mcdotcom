@@ -10,10 +10,7 @@ publication: Morning Edition
 show: true
 ---
 
-Companies have asked a federal regulator to approve thousands of miles of pipeline from Appalachia. They almost always get their way.
+Companies have asked a federal regulator to approve thousands of miles of new natural gas pipelines from Appalachia. They almost always get their way.
 
-Multimedia collaboration with [the Center for Public Integrity](https://www.publicintegrity.org/2017/07/17/20982/natural-gas-building-boom-fuels-climate-worries-enrages-landowners). Ran on NPR.org and [aired on Morning Edition](http://www.npr.org/templates/transcript/transcript.php?storyId=536708576).
-
-Things I did:
-
-Tools I used:
+* *Things I did: A multimedia collaboration&nbsp;*with&nbsp;[the Center for Public Integrity](https://www.publicintegrity.org/2017/07/17/20982/natural-gas-building-boom-fuels-climate-worries-enrages-landowners)&nbsp;and NPR*&nbsp;investigating the Federal Energy Regulator Commission.*
+* *Tools I used: Adobe Audition*
