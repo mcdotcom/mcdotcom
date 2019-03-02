@@ -12,5 +12,5 @@ show: true
 
 Companies have asked a federal regulator to approve thousands of miles of new natural gas pipelines from Appalachia. They almost always get their way.
 
-* *Things I did: A multimedia collaboration&nbsp;*with the Center for Public Integrity and NPR*&nbsp;to investigate the Federal Energy Regulatory Commission.*
+* *Things I did: A multimedia collaboration&nbsp;*with the Center for Public Integrity and NPR*&nbsp;to investigate the Federal Energy Regulatory Commission*
 * *Tools I used: Adobe Audition*
