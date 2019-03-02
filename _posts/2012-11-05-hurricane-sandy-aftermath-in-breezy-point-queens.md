@@ -9,7 +9,4 @@ publication: New York NOW
 show: true
 ---
 
-Few places were hit harder by Sandy than the beachfront community of Breezy Point in Queens. A fire fueled by hurricane force winds leveled an entire neighborhood:
-
-
-
+Few places were hit harder by Sandy than the beachfront community of Breezy Point in Queens. A fire fueled by hurricane force winds leveled an entire neighborhood.
