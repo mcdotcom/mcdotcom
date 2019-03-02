@@ -33,10 +33,9 @@ permalink: /resume/
 
 ### General Assignment Reporter, Blue Ridge News 11 (Cable) Ephrata, Pennsylvania (June 2009- May 2011)
 
-* Contributed to live nightly newscasts as general assignment reporter
-* Experience with live shots in the field
+* Contributed to live nightly local newscasts as general assignment reporter
+* Experienced with live shots in the field
 * Served as fill-in producer/anchor of live, half-hour newscasts
-* Creator and host of, “The Green Life with Marie,” a weekly series covering environmental issues
 
 ### Multimedia Public Relations Coordinator, Cape Abilities Hyannis, Massachusetts (September 2008- June 2009)
 
@@ -58,8 +57,8 @@ permalink: /resume/
 
 ## SPECIAL SKILLS
 
-* **Television/video**: Shoot & edit packages for TV and web using non-linear video editing programs, including Final Cut Pro and Avid. Experienced with news management software, including AP ENPS, and iNews. Experience producing & on-air hosting hour-long television specials, leading roundtable discussions.
-* **Radio**: report and produce spots and features using Adobe Audition
-* **Web/office**: Create online multimedia content: videos, maps, photo galleries, using WordPress and Core Publisher CMS. Microsoft Office programs including Word & Excel
+* **Television/video**: Shoot & edit shorter packages and longer programs for TV and web using non-linear video editing programs, including Final Cut&nbsp; X. Experience producing and hosting television specials.
+* **Radio**: report and produce spots and features using Marantz and Adobe Audition
+* **Web/office**: Create online multimedia content: videos, maps, photo galleries, using WordPress. Microsoft Office programs including Word & Excel
 * **Social media**: Facebook, Twitter, Instagram, YouTube, LinkedIn
 * **Foreign language**: French (conversational)
