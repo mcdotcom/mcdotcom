@@ -6,7 +6,7 @@ permalink: /resume/
 
 ## EXPERIENCE
 
-### Multimedia Reporter, WITF (PBS/NPR) Harrisburg, Pennsylvania (February 2013- Present)
+### Multimedia Reporter, WITF Harrisburg, Pennsylvania (February 2013- Present)
 
 * Harrisburg reporter for [StateImpact Pennsylvania](https://stateimpact.npr.org/pennsylvania/author/mariecusick/){: target="_blank"}. The project is a collaboration among four public media entities: WITF in Harrisburg, WHYY in Philadelphia, and WESA and the Allegheny Front in Pittsburgh
 * Travel throughout Pennsylvania covering state policy, energy, and the environment
@@ -16,12 +16,14 @@ permalink: /resume/
 * Produce documentaries for Pennsylvania PBS member stations
 * Co-wrote $652,000 grant to the Corporation for Public Broadcasting to expand StateImpact Pennsylvania into Pittsburgh in 2017
 
-### Freelance reporter, NPR &nbsp; (2011- Present)
+### Freelance reporter, NPR &nbsp;(2011- Present)
 
 * File features and spots for NPR’s newscasts and shows, including All Things Considered, Morning Edition, Weekend Edition.
 * Part of NPR’s [Energy and Environment Collaborative](https://www.npr.org/series/571910677/environment-and-energy-collaborative){: target="_blank"}, which coordinates coverage between the network and select member station reporters around the country
 
-### Multimedia Reporter, WMHT (PBS/NPR) Albany, New York (May 2011- February 2013)
+### Multimedia Reporter, WMHT &nbsp;
+
+### Albany, New York (May 2011- February 2013)
 
 * Albany reporter for the Innovation Trail, a collaborative project among six public media stations covering the economy and technology in upstate New York
 * Filed in-depth television reports for WMHT’s public affairs show, New York NOW, which airs on PBS stations statewide
@@ -31,7 +33,7 @@ permalink: /resume/
 * Optimized all broadcast content for the web and social media
 * Filed multimedia web reports: data visualizations, photo and audio slide shows, and videos
 
-### General Assignment Reporter, Blue Ridge News 11 (Cable) Ephrata, Pennsylvania (June 2009- May 2011)
+### General Assignment Reporter, Blue Ridge News 11&nbsp; Ephrata, Pennsylvania (June 2009- May 2011)
 
 * Contributed to live nightly local newscasts as general assignment reporter
 * Experienced with live shots in the field
