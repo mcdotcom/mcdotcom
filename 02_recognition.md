@@ -8,7 +8,7 @@ permalink: /recognition/
 
 * 2016 Society of Professional Journalists Sigma Delta Chi Award: [audio slideshow](http://www.witf.org/sipa-aftertheboom/){: target="_blank"}
 * 2015 Online News Association: StateImpact Pennsylvania website [finalist, topical reporting](http://journalists.org/2015/08/11/2015-online-journalism-awards-finalists-announced/){: target="_blank"}
-* 2014 National Edward R. Murrow: [hard news reporting](https://stateimpact.npr.org/pennsylvania/2013/04/29/in-sunbury-drilling-waste-politics-and-a-pile-of-dirt/){: target="_blank"}
+* 2014 National Edward R. Murrow Award: [hard news reporting](https://stateimpact.npr.org/pennsylvania/2013/04/29/in-sunbury-drilling-waste-politics-and-a-pile-of-dirt/){: target="_blank"}
 
 ## Regional
 
