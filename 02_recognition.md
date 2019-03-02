@@ -26,3 +26,7 @@ permalink: /recognition/
 * 2012 New York State AP: Special Mention, Enterprise Reporting
 * 2012 New York State AP: Special Mention, Feature
 * 2012 New York State AP: Innovation Trail team, First Place, Best News Series
+
+## International
+
+* Super duper nobel peace prize
