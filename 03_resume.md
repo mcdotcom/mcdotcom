@@ -31,7 +31,7 @@ permalink: /resume/
 * Optimized all broadcast content for the web and social media
 * Filed multimedia web reports: data visualizations, photo and audio slide shows, and videos
 
-### General Assignment Reporter, Blue Ridge News 11&nbsp; Ephrata, Pennsylvania (June 2009- May 2011)
+### General Assignment Reporter, Blue Ridge News 11 Ephrata, Pennsylvania (June 2009- May 2011)
 
 * Contributed to live nightly local newscasts as general assignment reporter
 * Experienced with live shots in the field
