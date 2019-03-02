@@ -17,7 +17,7 @@ permalink: /resume/
 ### Freelance reporter, NPR &nbsp; (2011- Present)
 
 * File features and spots for NPR’s newscasts and shows, including All Things Considered, Morning Edition, Weekend Edition.
-* Part of NPR’s Energy & Environment team, which coordinates coverage between the network and select member station reporters around the country
+* Part of NPR’s [Energy and Environment Collaborative](https://www.npr.org/series/571910677/environment-and-energy-collaborative){: target="_blank"}, which coordinates coverage between the network and select member station reporters around the country
 
 ### Multimedia Reporter, WMHT (PBS/NPR) Albany, New York (May 2011- February 2013)
 
