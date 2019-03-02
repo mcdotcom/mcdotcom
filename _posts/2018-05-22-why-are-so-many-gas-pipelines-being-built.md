@@ -15,4 +15,4 @@ show: true
 ---
 
 * *Things I did: Shot, edited, and wrote short video explainer about why the U.S. is experiencing a building boom of natural gas pipelines*
-* *Tools I used: Final Cut Pro X, DGI Phantom 3 Professional drone*
+* *Tools I used: Final Cut Pro X, DGI Phantom 3 Professional drone, iPhone*
