@@ -21,9 +21,7 @@ permalink: /resume/
 * File features and spots for NPR’s newscasts and shows, including All Things Considered, Morning Edition, Weekend Edition.
 * Part of NPR’s [Energy and Environment Collaborative](https://www.npr.org/series/571910677/environment-and-energy-collaborative){: target="_blank"}, which coordinates coverage between the network and select member station reporters around the country
 
-### Multimedia Reporter, WMHT &nbsp;
-
-### Albany, New York (May 2011- February 2013)
+### Multimedia Reporter, WMHT Albany, New York (May 2011- February 2013)
 
 * Albany reporter for the Innovation Trail, a collaborative project among six public media stations covering the economy and technology in upstate New York
 * Filed in-depth television reports for WMHT’s public affairs show, New York NOW, which airs on PBS stations statewide
