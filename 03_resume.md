@@ -4,7 +4,7 @@ title: Resume
 permalink: /resume/
 ---
 
-## WORK EXPERIENCE
+## EXPERIENCE
 
 ### Multimedia Reporter, WITF (PBS/NPR) Harrisburg, Pennsylvania (February 2013- Present)
 
