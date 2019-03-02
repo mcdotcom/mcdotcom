@@ -1,6 +1,6 @@
 ---
 _slug: header
-image: /assets/IMGP2196-1024x679.jpg
+image: /assets/mcusick.jpg
 title: Header
 sitewide_title: Marie Cusick
 teaser_markdown: >-
