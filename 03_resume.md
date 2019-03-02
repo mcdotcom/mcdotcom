@@ -45,27 +45,14 @@ permalink: /resume/
 * Launched Cape Abilities YouTube Channel and Facebook page
 * Assisted in getting national press for Cape Abilities with a story on the CBS Evening News
 
-### Weekend anchor & one-man-band reporter, KTWO-TV (ABC) Casper, Wyoming (April 2008- August 2008)
-
-* Produced, and co-anchored four live half-hour weekend newscasts
-* Shot, edited packages as general assignment reporter
-
----
+### &nbsp;
 
 ## EDUCATION
 
-### Lebanon Valley College, Annville, Pennsylvania Class of 2008
+### Lebanon Valley College, Annville, Pennsylvania&nbsp;
 
 * B.A. Political science and French
 * Magna cum laude
-
----
-
-## INTERNSHIPS
-
-* WGAL-TV Newsroom, Lancaster, Pennsylvania (2007)
-* WBZ-TV, Assignment desk, Boston, Massachusetts (2007)
-* Common Cause PA, Harrisburg, Pennsylvania (2006)
 
 ---
 
