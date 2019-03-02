@@ -59,6 +59,7 @@ permalink: /resume/
 
 * **Television/video**: Shoot & edit shorter packages and longer programs for TV and web using non-linear video editing programs, including Final Cut&nbsp; X. Experience producing and hosting television specials.
 * **Radio**: report and produce spots and features using Marantz and Adobe Audition
+* **Drone:&nbsp;**FAA-licensed sUAS (drone) pilot. Shoot with DJI Phantom 3 Professional
 * **Web/office**: Create online multimedia content: videos, maps, photo galleries, using WordPress. Microsoft Office programs including Word & Excel
 * **Social media**: Facebook, Twitter, Instagram, YouTube, LinkedIn
 * **Foreign language**: French (conversational)
