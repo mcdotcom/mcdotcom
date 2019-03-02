@@ -12,6 +12,7 @@ permalink: /recognition/
 
 ## Regional
 
+* 2018 Regional Murrow: [Investigative Reporting](https://features.witf.org/pipelines/){: target="_blank"}
 * 2017 Regional Murrow: [News Series](http://www.witf.org/portfolio/2017/01/series-the-politics-of-environmental-policy.php){: target="_blank"}
 * 2016 PICPA Truth in Finances: [Radio/TV](https://www.picpa.org/belong-engage/picpa-in-the-news/truth-in-finances-award){: target="_blank"}&nbsp;
 * 2015 Regional Murrow: [Investigative Reporting](http://stateimpact.npr.org/pennsylvania/2014/08/11/on-public-land-a-gas-company-takes-private-control/){: target="_blank"}
