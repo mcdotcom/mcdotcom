@@ -14,5 +14,5 @@ publication: StateImpact Pennsylvania
 show: true
 ---
 
-* *Things I did: Shot, edited and wrote a short video explainer about why the U.S. is experiencing a building boom of natural gas pipelines.*
-* *Tools I used: Final Cut X, DGI Phantom 3 Professional Drone*
+* *Things I did: Shot, edited, and wrote short video explainer about why the U.S. is experiencing a building boom of natural gas pipelines*
+* *Tools I used: Final Cut Pro X, DGI Phantom 3 Professional Drone*
