@@ -13,6 +13,7 @@ permalink: /resume/
 * File radio spots and in-depth feature stories for Pennsylvania NPR stations
 * Write news stories for StateImpact Pennsylvania website
 * Produce online multimedia content: video features, data visualizations, and photos
+* Produce [documentaries](https://www.pbs.org/video/generations-yet-to-come-environmental-rights-in-pa-ckbsoy/){: target="_blank"} for Pennsylvania PBS member stations
 
 ### Freelance reporter, NPR &nbsp; (2011- Present)
 
