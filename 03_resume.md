@@ -8,7 +8,7 @@ permalink: /resume/
 
 ### Multimedia Reporter, WITF (PBS/NPR) Harrisburg, Pennsylvania (February 2013- Present)
 
-* Harrisburg reporter for StateImpact Pennsylvania. The project is a collaboration among four public media entities: WITF in Harrisburg, WHYY in Philadelphia, and WESA and the Allegheny Front in Pittsburgh
+* Harrisburg reporter for [StateImpact Pennsylvania](https://stateimpact.npr.org/pennsylvania/author/mariecusick/){: target="_blank"}. The project is a collaboration among four public media entities: WITF in Harrisburg, WHYY in Philadelphia, and WESA and the Allegheny Front in Pittsburgh
 * Travel throughout Pennsylvania covering state policy, energy, and the environment
 * File radio spots and in-depth feature stories for Pennsylvania NPR stations
 * Write news stories for StateImpact Pennsylvania website
