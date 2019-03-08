@@ -14,11 +14,12 @@
 	<main class="contain">
 	{% if page.title == "Home" %}
 		<div id="posts">
-			{% for post in site.posts %}
+			{% assign sorted_posts = site.posts | sort:'sort_order' %}
+			{% for post in sorted_posts  %}
 				{% if post.show != false %}
 				<article id="{{ post.title | slugify }}" class="{% if post.categories %}{% for item in post.categories %}{{ item }} {% endfor %}{% endif %}" >						
 						{% if post.image %}
-							<img src="{{ post.image | prepend: baseurl }}" >	
+							<a href="{{ post.link }}" target="_blank"><img src="{{ post.image | prepend: baseurl }}" ></a>	
 						{% elsif post.embed_text %}
 								{{ post.embed_text }}     
 						{% endif %}

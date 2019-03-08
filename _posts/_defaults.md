@@ -6,6 +6,7 @@ title:
 link:
 date:
 publication:
+sort_order:
 show: true
 ---
 

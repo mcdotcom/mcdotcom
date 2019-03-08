@@ -7,6 +7,7 @@ title: History Buffs Commemorate 150 Years Since Gettysburg Battle
 link: >-
   https://www.npr.org/2013/07/04/198609728/history-buffs-commemorate-150-years-since-gettysburg-battle
 publication: Morning Edition
+sort_order: 6
 show: true
 ---
 

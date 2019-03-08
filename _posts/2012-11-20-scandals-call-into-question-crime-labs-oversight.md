@@ -7,6 +7,7 @@ title: Scandals Call Into Question Crime Labs’ Oversight
 link: >-
   http://www.npr.org/2012/11/20/165579898/forensic-crime-lab-scandals-may-be-due-to-oversight
 publication: All Things Considered
+sort_order: 7
 show: true
 ---
 

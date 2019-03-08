@@ -1,7 +1,12 @@
+{% assign footer = site.sitewide | where: "_slug", "footer" %}
+{% assign footer = footer[0] %}
+
+
 <footer class="contain">
 	<p>&copy; {{ site.time | date: '%Y' }} {{ site.title }}</p>
 	<ul id="social" class="nostyle">
-		<li><a href=" {{ site.twitter_url }}">Twitter</a></li>
-		<li><a href="{{ site.linkedin_url }}">LinkedIn</a></li>
+		{% for item in footer.social %}
+			<li><a href="{{ item.link }}" target="_blank" >{{ item.text  }}</a></li>
+		{% endfor %}
 	</ul>
 </footer>

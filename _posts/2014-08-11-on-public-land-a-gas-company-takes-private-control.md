@@ -11,6 +11,7 @@ categories:
 title: 'On public land, a gas company takes private control'
 link: 'https://www.youtube.com/watch?v=cnHJaOZfPwc'
 publication: StateImpact Pennsylvania
+sort_order: 5
 show: true
 ---
 

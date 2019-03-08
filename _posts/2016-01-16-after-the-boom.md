@@ -6,6 +6,7 @@ categories:
 title: After the Boom
 link: 'http://www.witf.org/sipa-aftertheboom/'
 publication: StateImpact Pennsylvania
+sort_order: 4 
 show: true
 ---
 

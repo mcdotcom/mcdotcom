@@ -6,6 +6,7 @@ categories:
 title: Are mushrooms the new plastics?
 link: http://www.innovationtrail.org/post/are-mushrooms-new-plastics
 publication: New York NOW
+sort_order: 9
 show: true
 ---
 

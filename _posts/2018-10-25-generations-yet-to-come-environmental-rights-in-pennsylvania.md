@@ -11,6 +11,7 @@ title: 'Generations Yet to Come: Environmental Rights in Pennsylvania'
 link: 'https://www.youtube.com/watch?v=d285LCR1MLM&t=37s'
 date: 2018-10-25 00:00:00
 publication: Pennsylvania PBS stations
+sort_order: 1
 show: true
 ---
 

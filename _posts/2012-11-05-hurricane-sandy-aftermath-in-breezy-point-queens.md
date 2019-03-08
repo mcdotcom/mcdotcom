@@ -6,6 +6,7 @@ categories:
 title: 'Hurricane Sandy aftermath in Breezy Point, Queens'
 link: 'http://www.innovationtrail.org/post/sandys-aftermath-breezy-point'
 publication: New York NOW
+sort_order: 8
 show: true
 ---
 
