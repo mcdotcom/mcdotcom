@@ -41,7 +41,7 @@ hr {
 
 header {
 	margin-top:20vw;
-	margin-bottom:30px;
+	margin-bottom:25px;
 	display:grid;
 	grid-template-columns:auto 1fr; 
 	grid-column-gap: 30px;
@@ -50,7 +50,7 @@ header {
 	}
 	img#header-image {
 		margin-bottom:20px;
-		width:150px;
+		width:140px;
 	}			
 	#branding {
 		h1 {
@@ -67,7 +67,7 @@ header {
 			}
 		}
 		h2 {
-			margin-bottom: 10px;
+			margin-bottom: 8px;
 			font-weight:100;
 			color:$text-color;
 			font-size:1.25rem;
