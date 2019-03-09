@@ -50,6 +50,7 @@ header {
 	}
 	img#header-image {
 		margin-bottom:20px;
+		width:150px;
 	}			
 	#branding {
 		h1 {
@@ -59,7 +60,8 @@ header {
 			letter-spacing:.1rem;
 			font-size:1.5rem;
 			color:$text-color-dark;
-			line-height:.9;
+			line-height:1;
+			padding-top:12px;
 			a {
 				color:inherit;
 			}
@@ -228,7 +230,7 @@ body#home {
 			}
 			.article-text-meta {
 				margin-bottom:15px;
-				 {
+				time {
 					color:#aaa;
 					font-size:.8rem;
 				}

@@ -2,20 +2,16 @@
 	{% assign header = site.sitewide | where:"_slug", "header" %}	
 	{% assign header = header[0] %}	
 	{% if header.image %}
-		<img id="header-image" width="130px" src="{{ header.image }}" alt="marie_cusick"/>
+		<img id="header-image" src="{{ header.image }}" alt="marie_cusick"/>
 	{% endif %}		
 	<div id="branding">
-		{% if page.title == "Home" %}		
-			<h1><a href="/">{{ header.sitewide_title }}</a></h1>
-			<h2>
-					{{ header.teaser_markdown }}  <small id="read-more">Read More.</small>
-			</h2>
-			<div id="full-content">
-					{{ header.content }}
-			</div>	
-		{% else %}
-			<h1><a href="/">{{ header.sitewide_title }}</a></h1>		
-		{% endif %}
+		<h1><a href="/">{{ header.sitewide_title }}</a></h1>
+		<h2>
+			{{ header.teaser_markdown }}  <small id="read-more">Read More.</small>
+		</h2>
+		<div id="full-content">
+			{{ header.content }}
+		</div>	
 		<nav>
 			<ul class="nostyle">
 				{% if page.title != 'Home' %}
