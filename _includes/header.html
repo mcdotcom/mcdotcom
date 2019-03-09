@@ -16,17 +16,15 @@
 		{% else %}
 			<h1><a href="/">{{ header.sitewide_title }}</a></h1>		
 		{% endif %}
+		<nav>
+			<ul class="nostyle">
+				{% if page.title != 'Home' %}
+					<li class="{% if item.url == page.url %}active{% endif %}"><a href="/">Home</a></li>
+				{% endif %}
+				{% for item in site.pages %} {% if item.title and item.title != 'Home' %}
+				<li class="{% if item.url == page.url %}active{% endif %}"><a href="{{ item.url | prepend: site.baseurl }}">{{ item.title }}</a></li>
+				{% endif %} {% endfor %}
+			</ul>
+		</nav>
 	</div>
-	<nav>
-		<ul class="nostyle">
-			{% if page.title != 'Home' %}
-				<li class="{% if item.url == page.url %}active{% endif %}"><a href="/">Home</a></li>
-			{% endif %}
-			{% for item in site.pages %} {% if item.title and item.title != 'Home' %}
-			<li class="{% if item.url == page.url %}active{% endif %}"><a href="{{ item.url | prepend: site.baseurl }}">{{ item.title }}</a></li>
-			{% endif %} {% endfor %}
-		</ul>
-		
-		
-	</nav>
-</header>
+	</header>
