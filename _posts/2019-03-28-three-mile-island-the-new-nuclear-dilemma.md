@@ -16,7 +16,7 @@ show: true
 
 **Three Mile Island: The New Nuclear Dilemma&nbsp;**
 
-Forty years after the partial meltdown at Three Mile Island, here's a growing debate over the role nuclear energy plays in addressing climate change. This 30-minute documentary explores the plant’s fraught history and the new fight to keep it open.
+Forty years after the partial meltdown at Three Mile Island, there's a growing debate over the role nuclear energy plays in addressing climate change. This 30-minute documentary explores the plant’s fraught history and the new fight to keep it open.
 
 * *Things I did: Produced and narrated public television documentary*
 * *Tools I used: Final Cut Pro X*
