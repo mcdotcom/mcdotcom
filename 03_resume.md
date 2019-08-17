@@ -30,20 +30,20 @@ permalink: /resume/
 ### Multimedia Reporter, WMHT Albany, New York (2011- 2013)
 
 * Albany reporter for the Innovation Trail, a collaborative project among six public media stations covering the economy and technology in upstate New York
-* Filed in-depth television reports for WMHT’s public affairs show, New York NOW, which airs on PBS stations statewide
-* Contributed reports to WNET Thirteen’s New York City public TV show, MetroFocus
+* Filed television reports for WMHT’s public affairs show, New York NOW, which airs on PBS stations statewide
+* Contributed reporting packages to WNET Thirteen’s New York City public TV show, MetroFocus
 * Filed radio spots and feature stories for New York State public stations
-* Produced/edited/co-hosted special television programs for New York State PBS stations on the Innovation Trail beat– including technology and economic development
+* Produced/edited/co-hosted special television programs for New York State PBS member stations on the Innovation Trail beat– including technology and economic development
 * Optimized all broadcast content for the web and social media
 * Filed multimedia web reports: data visualizations, photo and audio slide shows, and videos
 
-### General Assignment Reporter, Blue Ridge News 11 Ephrata, Pennsylvania (June 2009- May 2011)
+### General Assignment Reporter, Blue Ridge News 11 Ephrata, Pennsylvania (2009-2011)
 
 * Contributed to live nightly local newscasts as general assignment reporter
 * Experienced with live shots in the field
 * Served as fill-in producer/anchor of live, half-hour newscasts
 
-### Multimedia Public Relations Coordinator, Cape Abilities Hyannis, Massachusetts (September 2008- June 2009)
+### Multimedia Public Relations Coordinator, Cape Abilities Hyannis, Massachusetts (2008-2009)
 
 * Created multimedia public relations content for Cape Abilities, a nonprofit that supports people with disabilities on Cape Cod
 * Hosted, shot, wrote, and edited web videos profiling Cape Abilities programs
