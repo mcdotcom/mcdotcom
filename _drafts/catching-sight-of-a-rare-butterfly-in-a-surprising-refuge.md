@@ -17,6 +17,4 @@ sort_order:
 show: true
 ---
 
-It's not easy to see the orange and black spotted regal fritillary butterfly if you live in the Eastern U.S. It used to be common across much of the country, and is still found in the Midwest. But it's all but disappeared in the East, its once vast habitat developed, divided and degraded. A 2007 federal&nbsp;[report](https://www.fs.usda.gov/Internet/FSE_DOCUMENTS/stelprdb5206808.pdf)&nbsp;found that this now rare butterfly's "decline in the East was so rapid that in many states the regal fritillary had disappeared before it could be listed" as endangered.
-
-But the species has survived at one unusual refuge, and for a few days every summer hundreds of people join guided tours to get a glimpse.
+It's not easy to see the regal fritillary butterfly if you live in the Eastern U.S. It used to be common across much of the country, and is still found in the Midwest. But it's all but disappeared in the East, its once vast habitat developed, divided and degraded. The&nbsp;species has survived at one unusual refuge, and for a few days every summer hundreds of people join guided tours to get a glimpse.
