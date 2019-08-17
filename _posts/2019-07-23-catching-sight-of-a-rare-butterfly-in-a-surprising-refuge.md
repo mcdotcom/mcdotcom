@@ -1,6 +1,6 @@
 ---
-image:
-embed_text: 'https://www.youtube.com/watch?v=rTZaXcc-OPM'
+image: 'https://www.youtube.com/watch?v=rTZaXcc-OPM'
+embed_text:
 categories:
   - video
   - radio
