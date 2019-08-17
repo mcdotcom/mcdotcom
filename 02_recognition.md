@@ -6,12 +6,14 @@ permalink: /recognition/
 
 ## National
 
+* 2019 Online News Association: finalist, [Gather Award for Engaged Journalism, Project](https://awards.journalists.org/2019/08/13/2019-online-journalism-awards-finalists-announced/){: target="_blank"} (team award)
 * 2016 Society of Professional Journalists Sigma Delta Chi Award: [audio slideshow](http://www.witf.org/sipa-aftertheboom/){: target="_blank"}
-* 2015 Online News Association: StateImpact Pennsylvania website [finalist, topical reporting](http://journalists.org/2015/08/11/2015-online-journalism-awards-finalists-announced/){: target="_blank"}
+* 2015 Online News Association: StateImpact Pennsylvania website [finalist, topical reporting](http://journalists.org/2015/08/11/2015-online-journalism-awards-finalists-announced/){: target="_blank"}&nbsp;(team award)
 * 2014 National Edward R. Murrow Award: [hard news reporting](https://stateimpact.npr.org/pennsylvania/2013/04/29/in-sunbury-drilling-waste-politics-and-a-pile-of-dirt/){: target="_blank"}
 
 ## Regional
 
+* 2019 Regional Murrow: [Multimedia](https://rtdna.org/content/2019_regional_edward_r_murrow_award_winners#LGR11){: target="_blank"}(team award)
 * 2018 Regional Murrow: [Investigative Reporting](https://features.witf.org/pipelines/){: target="_blank"}
 * 2017 Regional Murrow: [News Series](http://www.witf.org/portfolio/2017/01/series-the-politics-of-environmental-policy.php){: target="_blank"}
 * 2016 PICPA Truth in Finances: [Radio/TV](https://www.picpa.org/belong-engage/picpa-in-the-news/truth-in-finances-award){: target="_blank"}&nbsp;
