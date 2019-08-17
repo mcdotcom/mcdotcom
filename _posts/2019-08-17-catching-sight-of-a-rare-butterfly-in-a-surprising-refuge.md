@@ -1,17 +1,13 @@
 ---
 image:
-embed_text: >-
-  <iframe width="560" height="315"
-  src="https://www.youtube.com/embed/rTZaXcc-OPM" frameborder="0"
-  allow="accelerometer; autoplay; encrypted-media; gyroscope;
-  picture-in-picture" allowfullscreen></iframe>
+embed_text:
 categories:
   - video
   - radio
 title: Catching Sight Of A Rare Butterfly In A Surprising Refuge
 link: >-
   https://www.npr.org/2019/07/23/744220109/catching-sight-of-a-rare-butterfly-in-a-surprise-refuge
-date: 2019-07-23 00:00:00
+date: Invalid date
 publication: NPR
 sort_order:
 show: true
