@@ -8,11 +8,11 @@ permalink: /resume/
 
 ### &nbsp;
 
-### Producer, PBS NewsHour Student Reporting Labs (August 2019- present)
+### Producer, PBS NewsHour Student Reporting Labs Arlington, Virginia (2019- present)
 
-* Work with high school students around the U.S. to produce youth-led journalism.
+* Work with high school students and teachers around the U.S. to develop the next generation of informed media creators and consumers.
 
-### Multimedia Reporter, WITF Harrisburg, Pennsylvania (February 2013- August 2019)
+### Multimedia Reporter, WITF Harrisburg, Pennsylvania (2013- 2019)
 
 * Harrisburg reporter for [StateImpact Pennsylvania](https://stateimpact.npr.org/pennsylvania/author/mariecusick/){: target="_blank"}. The project is a collaboration among four public media entities: WITF in Harrisburg, WHYY in Philadelphia, and WESA and the Allegheny Front in Pittsburgh
 * Traveled throughout Pennsylvania covering state policy, energy, and the environment
@@ -27,7 +27,7 @@ permalink: /resume/
 * Filed features and spots for NPR’s newscasts and shows, including All Things Considered, Morning Edition, Weekend Edition.
 * Member of NPR’s [Energy and Environment Collaborative](https://www.npr.org/series/571910677/environment-and-energy-collaborative){: target="_blank"}, which coordinates coverage between the network and select member station reporters around the country
 
-### Multimedia Reporter, WMHT Albany, New York (May 2011- February 2013)
+### Multimedia Reporter, WMHT Albany, New York (2011- 2013)
 
 * Albany reporter for the Innovation Trail, a collaborative project among six public media stations covering the economy and technology in upstate New York
 * Filed in-depth television reports for WMHT’s public affairs show, New York NOW, which airs on PBS stations statewide
