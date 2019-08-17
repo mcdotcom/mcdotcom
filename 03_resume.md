@@ -6,20 +6,26 @@ permalink: /resume/
 
 ## EXPERIENCE
 
-### Multimedia Reporter, WITF Harrisburg, Pennsylvania (February 2013- Present)
+### &nbsp;
+
+### Producer, PBS NewsHour Student Reporting Labs (August 2019- present)
+
+* Work with high school students around the U.S. to produce youth-led journalism.
+
+### Multimedia Reporter, WITF Harrisburg, Pennsylvania (February 2013- August 2019)
 
 * Harrisburg reporter for [StateImpact Pennsylvania](https://stateimpact.npr.org/pennsylvania/author/mariecusick/){: target="_blank"}. The project is a collaboration among four public media entities: WITF in Harrisburg, WHYY in Philadelphia, and WESA and the Allegheny Front in Pittsburgh
-* Travel throughout Pennsylvania covering state policy, energy, and the environment
-* File radio spots and in-depth feature stories for Pennsylvania NPR stations
-* Write news stories for StateImpact Pennsylvania website
-* Produce online multimedia content: video features, data visualizations, and photos
-* Produce documentaries for Pennsylvania PBS member stations
+* Traveled throughout Pennsylvania covering state policy, energy, and the environment
+* Filed radio spots and in-depth feature stories for Pennsylvania NPR stations
+* Wrote news stories for StateImpact Pennsylvania website
+* Produced online multimedia content: video features, data visualizations, and photos
+* Produced documentaries for Pennsylvania PBS member stations
 * Co-wrote $652,000 grant to the Corporation for Public Broadcasting to expand StateImpact Pennsylvania into Pittsburgh in 2017
 
-### Freelance reporter, NPR &nbsp;(2011- Present)
+### Freelance reporter, NPR &nbsp;(2011- 2019)
 
-* File features and spots for NPR’s newscasts and shows, including All Things Considered, Morning Edition, Weekend Edition.
-* Part of NPR’s [Energy and Environment Collaborative](https://www.npr.org/series/571910677/environment-and-energy-collaborative){: target="_blank"}, which coordinates coverage between the network and select member station reporters around the country
+* Filed features and spots for NPR’s newscasts and shows, including All Things Considered, Morning Edition, Weekend Edition.
+* Member of NPR’s [Energy and Environment Collaborative](https://www.npr.org/series/571910677/environment-and-energy-collaborative){: target="_blank"}, which coordinates coverage between the network and select member station reporters around the country
 
 ### Multimedia Reporter, WMHT Albany, New York (May 2011- February 2013)
 
@@ -57,9 +63,9 @@ permalink: /resume/
 
 ## SPECIAL SKILLS
 
-* **Television/video**: Shoot & edit shorter packages and longer programs for TV and web using non-linear video editing programs, including Final Cut&nbsp; X. Experience producing and hosting television specials.
-* **Radio**: report and produce spots and features using Marantz and Adobe Audition
+* **Television/video**\: Shoot & edit shorter packages and longer programs for TV and web using non-linear video editing programs, including Final Cut&nbsp; X. Experience producing and hosting television specials.
+* **Radio**\: report and produce spots and features using Marantz and Adobe Audition
 * **Drone:&nbsp;**FAA-licensed sUAS (drone) pilot. Shoot with DJI Phantom 3 Professional
-* **Web/office**: Create online multimedia content: videos, maps, photo galleries, using WordPress. Microsoft Office programs including Word & Excel
-* **Social media**: Facebook, Twitter, Instagram, YouTube, LinkedIn
-* **Foreign language**: French (conversational)
+* **Web/office**\: Create online multimedia content: videos, maps, photo galleries, using WordPress. Microsoft Office programs including Word & Excel
+* **Social media**\: Facebook, Twitter, Instagram, YouTube, LinkedIn
+* **Foreign language**\: French (conversational)
